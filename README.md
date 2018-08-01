@@ -5,12 +5,9 @@
 
 ## 요구사항
   - Python 3
-  
-  For Linux(Ubuntu, Debian, Mint):
-  ```bash
-  $ sudo apt-get install python3 python3-pip
-  ```
-  For Max OS X:
+  - MacOS 사용이 가능한 기기 
+  - iMessage 수신이 가능한 기기
+
   ```bash
   $ brew install python
   ```
