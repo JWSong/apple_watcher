@@ -25,3 +25,4 @@ $ source /path/to/venv/bin/activate
 (venv)$ python apple_watcher
 (venv)$ 전화번호를 입력하세요. (ex. +82-10-1234-5678): +82-10-1234-5678
 ```
+한가지 유의할점은 메시지를 보내고 싶은 전화번호는 iMessage에 메세지를 보낸 이력이 있어야합니다.
