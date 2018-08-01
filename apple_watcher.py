@@ -17,6 +17,7 @@ def start_checking():
         if not 'disabled' in purchase_button.attrs['class']:
             print("구매 가능")
             subprocess.Popen(["sh", "imessages.sh", pnum, "맥북 구매가능"], stdin=subprocess.PIPE)
+            raise SystemExit
         else:
             print("구매 불가")
 
